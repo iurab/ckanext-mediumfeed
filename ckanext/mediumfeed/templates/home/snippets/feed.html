@@ -1,0 +1,14 @@
+<ul class="medium-publications">
+    {% for publication in  h.medium_publications %}
+        <li class="medium-publication">
+            <img className="publication-image" src="{{publication.imageUrl}}">
+            <a href="{{ publication.url }}" class="publication-title">
+                {{ publication.name }}
+            </a>
+            
+            <div class="publication-description">
+                {{ publication.description }}
+            </div>
+        </li>
+    {% endfor %}
+</ul>
