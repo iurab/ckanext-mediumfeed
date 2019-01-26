@@ -1,1 +1,0 @@
-{"virtualbox":{"/etc/ckan/default":{"guestpath":"/etc/ckan/default","hostpath":"/Users/costi/code/github/costibleotu/ckanext-mediumfeed/etc","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/costi/code/github/costibleotu/ckanext-mediumfeed","disabled":false,"__vagrantfile":true}}}
