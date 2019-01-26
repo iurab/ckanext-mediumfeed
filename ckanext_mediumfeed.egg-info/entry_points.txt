@@ -1,0 +1,7 @@
+
+        [ckan.plugins]
+        mediumfeed=ckanext.mediumfeed.plugin:MediumfeedPlugin
+
+        [babel.extractors]
+        ckan = ckan.lib.extract:extract_ckan
+    

@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.rst
+requirements.txt
+setup.cfg
+setup.py
+ckanext/__init__.py
+ckanext/mediumfeed/__init__.py
+ckanext/mediumfeed/plugin.py
+ckanext/mediumfeed/tests/__init__.py
+ckanext/mediumfeed/tests/test_plugin.py
+ckanext_mediumfeed.egg-info/PKG-INFO
+ckanext_mediumfeed.egg-info/SOURCES.txt
+ckanext_mediumfeed.egg-info/dependency_links.txt
+ckanext_mediumfeed.egg-info/entry_points.txt
+ckanext_mediumfeed.egg-info/namespace_packages.txt
+ckanext_mediumfeed.egg-info/top_level.txt
